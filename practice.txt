@@ -1,2 +1,2 @@
 !/bin/bash
-echo "hi this is practice"
+echo "hi this is practiceing 1"
