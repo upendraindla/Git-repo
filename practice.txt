@@ -1,6 +1,2 @@
 !/bin/bash
-<<<<<<< HEAD
-echo "hi this is practiceing 1"
-=======
-echo "hi this is practiceing"
->>>>>>> main
+echo "hi this is practiceinging"
