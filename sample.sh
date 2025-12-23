@@ -1,5 +1,2 @@
 !/bin/bash
-<html>
-<body>
-</body>
-</html>
+<html></html>
