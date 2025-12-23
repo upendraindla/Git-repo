@@ -1,2 +1,2 @@
 !/bin/bash
-echo"hi this for example "
+echo"hi this is for example "
